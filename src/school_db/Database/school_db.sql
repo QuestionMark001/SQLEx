@@ -6,6 +6,7 @@
 
 MySQL Version: 8.0.28
 School Main Database SQL.
+Copyright (c) 2022 by QuestionMark001, All Rights Reserved.
 */
 
 CREATE DATABASE school_db;
